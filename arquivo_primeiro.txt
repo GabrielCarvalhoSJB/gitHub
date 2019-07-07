@@ -4,6 +4,7 @@ Clonando um repositório:
 Configurando a conta que guardam seus repositórios
     git config --global user.email "you@example.com"
     git config --global user.name "Your Name"
+    git remote add origin https://github.com/GabrielCarvalhoSJB/gitHub.git //endereco do novo repositório.
 
  Começando um repositório
     git init;

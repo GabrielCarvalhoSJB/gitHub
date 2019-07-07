@@ -1,0 +1,13 @@
+Clonando um repositório:
+    git clone (endereço do repositório)
+
+Configurando a conta que guardam seus repositórios
+    git config --global user.email "you@example.com"
+    git config --global user.name "Your Name"
+
+ Começando um repositório
+    git init;
+    git add nome_do_arquivo.txt //adicionando um arquivo, todos arquivos git add .
+    git status //saber qual o status
+    git commit -m "Primeiro commit envio de mensagem"
+    git push --set-upstream origin master // apenas primeiro push da branch

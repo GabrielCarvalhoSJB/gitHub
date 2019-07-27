@@ -1,0 +1,8 @@
+//Comandos para usar no Git / GitHub
+git status -> verifica arquivos, o status dos arquivos;
+
+git add ou git add . -> Adiciona os arquivos untracked;
+
+git commit -m "Mensagem" -> faz um commit com mensagem;
+
+git commit --amend -m "Nova Mensagem" -> faz commit com nova mensagem, caso erre a mensagem do commit anterior(sem o push);
